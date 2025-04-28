@@ -1,1 +1,4 @@
-hello
+HELLO
+
+det heter faktiskt hej på svenska
+Här kommer lite annan kod och en tom rad
